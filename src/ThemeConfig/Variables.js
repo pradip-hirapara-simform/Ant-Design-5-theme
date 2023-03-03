@@ -49,6 +49,7 @@ export const antDComponents = (themeColor) => ({
     colorTextDisabled: themeColor.BlackTextColor,
     colorText: themeColor.BlackTextColor,
     fontSize: 14,
+    colorTextQuaternary: themeColor.BlackTextColor
   },
   Card: {
     colorBorderSecondary: themeColor.GrayBorderColor,
